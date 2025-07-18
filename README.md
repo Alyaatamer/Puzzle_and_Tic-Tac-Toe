@@ -65,3 +65,4 @@ theme toggle.
 
 - Python 3.12
 - `customtkinter`
+----
